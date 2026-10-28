@@ -9,3 +9,10 @@ the image of your avatar was automatically copied to the clipboard, so all you n
 
 you can also (before sending the image) use the ```tagger.exe``` file to create tags.. the tags gets copied to the clipboard so you can paste them after pasting the image.
 press enter and wait for the ai to finish generating.
+
+
+
+> NOTE
+> you do NOT need to download LINK.txt file.. ONLY the three files "avatar to ai image.exe", "robloxUSR.txt" and "tagger.exe".
+> LINK is used to dynamically update the link to copy the copilot chat in case something goes wrong, it doesnt serve any purpose.
+> SOURCE.zip is for the smart people who knows python coding.. and if you do know python, DONT JUDGE MY CODE PLES :sob::pray:
