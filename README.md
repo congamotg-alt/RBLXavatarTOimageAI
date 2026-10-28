@@ -1,6 +1,6 @@
 # instructions
 Firstly, open ```robloxUSR.txt``` file and type in your name, **NOT DISPLAY NAME!**
-then, run in the terminal inside the folder "```cmd python -m pip install -r requirements.txt```"
+then, run in the terminal inside the folder "```python -m pip install -r requirements.txt```"
 lastly, open ```avatar to ai image.exe``` file to get the avatar into a file in the folder
 
 # aftermath
